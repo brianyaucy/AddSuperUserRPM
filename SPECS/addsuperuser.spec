@@ -7,7 +7,6 @@ Group:		Unknown
 BuildArch:	noarch
 License:	GPL
 URL:		http://brainyou.stream/
-Source0:	addsuperuser.tar.gz
 
 %description
 Add superuser and set 
